@@ -14,7 +14,9 @@
   	- Restart...
   - Set up theme dark:
   	- Trước tiên cần phải cài plugin Dracular để đổi màu thanh side bar (nhìn cho đồng bộ)
-  		- Tools -> Plugins -> Downloaded -> Add Plugins... -> 1501524971_nb-darcula-1.6.nbm 
+  		- Tools -> Plugins -> Downloaded -> Add Plugins... -> 1501524971_nb-darcula-1.6.nbm
+        - Netbeans đã không hỗ trợ tải trực tiếp từ app, nên sẽ add trực tiếp file này:
+        - https://drive.google.com/file/d/1rprcr1d1UWvPLSZApiaJk_rGk4wdpzpF/view?usp=sharing 
   		- Restart... 
   		- Khi mở lên thì ta được một giao diện mặc định của gói theme 
    		- Tools -> Options -> Fonts & Color: Import-> Browse-> /light/dark-theme.zip
